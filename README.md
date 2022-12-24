@@ -30,3 +30,8 @@
 ## Sobre Mim
 
 Joguei Poker profissionalmente por 2 anos até decidir largar a profissão para me dedicar a programar.
+
+## Outras redes
+
+<a href="https://www.linkedin.com/in/vitoaugustohu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://codesandbox.io/u/vitoraugustohu" target="_blank"> <img src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"/></a>
